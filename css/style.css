@@ -1,9 +1,18 @@
+body{
+    background-color: blanchedalmond;
+}
 h1{
-    color: blue;
-    background-color: yellow;
+    color: black;
+    background-color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h1{
     font-family: 'Times New Roman', Times, serif;
+}
+p{
+    border: 5px black dashed;
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: solid;
 }
